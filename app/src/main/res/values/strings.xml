@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">attendance system</string>
+    <string name="title_1">Staff Section</string>
+    <string name="title_2">Student Section</string>
+    <string name="title_3">Parent Section</string>
+    <string name="text_1">BVDU - DITM</string>
+</resources>
